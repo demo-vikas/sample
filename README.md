@@ -1,2 +1,2 @@
 # sample
-Here is the sample project 
+Here is the sample project for git 
